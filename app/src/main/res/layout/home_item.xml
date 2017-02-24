@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="86dp"
+    android:clickable="true"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="?android:attr/selectableItemBackground">
+    <ImageView
+        android:id="@+id/thumbnail_image"
+        android:layout_width="40dp"
+        android:visibility="gone"
+        android:layout_height="match_parent"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginBottom="4dp"
+        android:layout_marginTop="4dp"
+        android:layout_toRightOf="@id/thumbnail_image"
+        android:orientation="vertical">
+
+        <Cwidgets.Cfonts.MyTextView
+            android:id="@+id/recycle_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:maxLines="2"
+            android:textColor="@color/black"
+            android:textSize="16dp"
+            tools:text="Title" />
+
+        <Cwidgets.Cfonts.MyTextView
+            android:id="@+id/recycle_date_time"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ellipsize="marquee"
+            android:maxLines="1"
+            android:textColor="@color/black"
+            android:textSize="13dp"
+            tools:text="Date and Time" />
+
+        <Cwidgets.Cfonts.MyTextView
+            android:id="@+id/recycle_repeat_info"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ellipsize="marquee"
+            android:maxLines="1"
+            android:textColor="@color/black"
+            android:textSize="13dp"
+            tools:text="Repeat No and Type" />
+
+    </LinearLayout>
+
+</RelativeLayout>

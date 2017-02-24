@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_2273d6ece5fc1ce5563cc89c45609bbb510dec7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.2.1_7d0ab7957d557e0f263dc9e59f49dd9ef76e8431.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_0595028bb2903a33ccb65d85fc19a32fac708302.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_74b056ca4e3b51a922a199aebe00bca3ff6b024d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kinsley kajiva\Documents\eclipse\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_347b35c5e333d1be54b35478a32eb6e2b0d3f950.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\exploded-aar\io.realm\realm-android-library\2.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="716030a2499afe39ca5b9c8bc09bc868ca372206">
+        <dex dex="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\pre-dexed\debug\io.realm-realm-android-library-2.0.2_0e2323aba7b91070882cad5426712bbfd28a2f0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_0425d8a3ab474cc384fa6e7fbd2fe452c5c0a8a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_577765377e8d6d148c3cd29db4626da0cc042cb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_79c4ca667eae8d910fa21ca854b5b8f5f87d804d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kinsley kajiva\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1_82c4ef1d9322b75bb5c57c9627bb5e5a98b344eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\exploded-aar\jp.wasabeef\recyclerview-animators\2.2.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8e325e9ba5c23d635d0cfaa76c349fca83101f8a">
+        <dex dex="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\pre-dexed\debug\jp.wasabeef-recyclerview-animators-2.2.3_d43834ce56006a2d36c762326a92258974ff2cca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_68c6d62d4df76c9caa0910746c03ea6dcc87c478.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_3560fb58a4aedcbba25ce258486f740170b9b8f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_b650b1f21b77bcbd22685045d1b1cdcc66bca2ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_c48263cf1825a63b7eba5e76c0bc650c789321c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kinsley kajiva\.gradle\caches\modules-2\files-2.1\io.realm\realm-annotations\2.0.2\e97f64258ef6d0daeb26b3b88988215e0b14d9b2\realm-annotations-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e97f64258ef6d0daeb26b3b88988215e0b14d9b2">
+        <dex dex="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\pre-dexed\debug\realm-annotations-2.0.2_a0de97b92cf857e4990dbf20deaa66b2b5f78b64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kinsley kajiva\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\pre-dexed\debug\library-2.4.0_6c5dc57245a61a982d4f1bb645ac95405d3fc697.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e740464e3d7169042a420c18e05f986682ab9845.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_5382817f1e3f0eda7e41748596ab027547630bc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_8711bae3f35ba21f4aa347a4815cb4b5e5fc6a7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\exploded-aar\com.getkeepsafe.relinker\relinker\1.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b64dd5f01bc37de289f90fd59299b0c76d119611">
+        <dex dex="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\pre-dexed\debug\com.getkeepsafe.relinker-relinker-1.2.2_fd83ce254f6b04d2f6e5563a5d206a2988a0e160.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_84590d1890000832cf98c197e1462dafbe018fec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\exploded-aar\com.github.sd6352051\NiftyDialogEffects\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c8d7be664102208e23c40a1e41ecd81939d43e85">
+        <dex dex="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\pre-dexed\debug\com.github.sd6352051-NiftyDialogEffects-1.0.0_f1a492f2966b96889b653ec13be1e59686604e8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kinsley kajiva\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\pre-dexed\debug\glide-3.7.0_d5654326c435808c273fa9434d5c11e7d5696693.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_749be32f21b324e4c011a8e91be2735cd1be5101.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\exploded-aar\si.virag\fuzzydateformatter\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5094db37bee9accf600ac2a2f43be2725b6d8d57">
+        <dex dex="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\pre-dexed\debug\si.virag-fuzzydateformatter-1.1.0_0671f9ed4bac7148f13cb2d9e75f487ce86de6c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kinsley kajiva\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\pre-dexed\debug\gson-2.7_9bf4f8fb6ac89d5a17e11b795e4aa403132645c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_7312665d3b69fc2b83eaefb8b152b274a75a301f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kinsley kajiva\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\pre-dexed\debug\okio-1.9.0_ef59ab40cf79e9b71f9d14870bf0f0e1cd7cc310.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\exploded-aar\com.github.clans\fab\1.6.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1c3b9743fe8bb166a90a7e98b9b9f1f8021d80cd">
+        <dex dex="C:\Users\kinsley kajiva\AndroidStudioProjects\Feed\app\build\intermediates\pre-dexed\debug\com.github.clans-fab-1.6.4_8c28f8d149a68de260552345f03fb89d7d0cd1b5.jar" />
+    </item>
+
+</items>
